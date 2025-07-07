@@ -1,2 +1,4 @@
-# Ola Mundo
-Primeiro repositório do curso de Git e GirHub
+# Olá, Mundo!
+Primeiro repositório
+
+Repositório criado dirante uma aula aoo vivo!
